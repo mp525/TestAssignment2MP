@@ -6,4 +6,5 @@ Feature tests can be found in the "/src/test/resources/features" folder.
 This folder contains features of both the string- and bowling utility.
 
 ## Junit tests
-Junit tests can be found in the 
+Junit tests can be found in the "/src/test/java/dk/test/stringtestass/" folder.
+This folder contains unit tests for the bowling game utility.
